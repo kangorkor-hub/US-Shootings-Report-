@@ -98,27 +98,7 @@ Example:
 ![US Shooting Dashboard](dashboard.png)
 ```
 
----
 
-## Project Structure
-
-```
-US-Shooting-Dashboard-Analysis/
-│
-├── Data/
-│   └── US_Shooting_Data.xlsx
-│
-├── Dashboard/
-│   └── US Shooting Dashboard.xlsx
-│
-├── Images/
-│   └── dashboard.png
-│
-├── Report/
-│   └── US Shooting Dashboard Analysis Report.pdf
-│
-└── README.md
-```
 
 ---
 
