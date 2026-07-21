@@ -88,19 +88,6 @@ This project showcases the following skills:
 
 ---
 
-## Dashboard Preview
-
-> *Insert a screenshot of your dashboard here.*
-
-Example:
-
-```markdown
-![US Shooting Dashboard](dashboard.png)
-```
-
-
-
----
 
 ## Conclusion
 
